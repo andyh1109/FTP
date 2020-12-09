@@ -7,7 +7,7 @@ python3 Server.py
 
 # Network Simulation
 1. Install Kathara by following the instructions [here](https://github.com/KatharaFramework/Kathara/blob/master/README.md#installation)
-2. Download the network simulation  
+2. Download the [network simulation  ](https://drive.google.com/file/d/1IoOJNYWOyikIdnOTMmDI-ZYWQvBG5h6H/view?usp=sharing)
 3. Move the client and server to the shared folder in the network simulation
 3. Run the network simulation with  
 `sudo kathara lstart`  
