@@ -1,12 +1,13 @@
+
+# Before running the service
+Add your username and password in the user.txt file on the server. The implementation of 
+user registation is out of scope of this project.
+
 # Start Client
 python3 Client.py test.txt localhost
 
 # Start Server
-python3 Server.py
-
-# before running the service
- add your username and password in the user.txt file on the server. The implementation of 
-user registation is out of scope of this project. 
+python3 Server.py 
 
 # Network Simulation
 1. Install Kathara by following the instructions [here](https://github.com/KatharaFramework/Kathara/blob/master/README.md#installation)
